@@ -21,7 +21,7 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 
-![text if the image fails to load](auto-generated-path-to-file-when-you-upload-image "Text displayed on hover")
+![text if the image fails to load](300.jpg "Text displayed on hover")
 
-[logo]: auto-generated-path-to-file-when-you-upload-image "Hover me"
+[logo]: 300.jpg "Hover me"
 ![error text][logo]
