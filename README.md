@@ -1,21 +1,22 @@
-[I'm an inline-style link](https://www.google.com)
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
 
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+Alternatively, for H1 and H2, an underline-ish style:
 
-[I'm a reference-style link][Arbitrary case-insensitive reference text]
+Alt-H1
+======
 
-[I'm a relative reference to a repository file](../blob/master/LICENSE)
+Alt-H2
+------
 
-[You can use numbers for reference-style link definitions][1]
+Emphasis, aka italics, with *asterisks* or _underscores_.
 
-Or leave it empty and use the [link text itself].
+Strong emphasis, aka bold, with **asterisks** or __underscores__.
 
-URLs and URLs in angle brackets will automatically get turned into links. 
-http://www.example.com or <http://www.example.com> and sometimes 
-example.com (but not on Github, for example).
+Combined emphasis with **asterisks and _underscores_**.
 
-Some text to show that the reference links can follow later.
-
-[arbitrary case-insensitive reference text]: https://www.mozilla.org
-[1]: http://slashdot.org
-[link text itself]: http://www.reddit.com
+Strikethrough uses two tildes. ~~Scratch this.~~
