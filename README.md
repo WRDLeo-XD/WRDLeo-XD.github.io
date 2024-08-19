@@ -21,7 +21,7 @@ Combined emphasis with **asterisks and _underscores_**.
 Strikethrough uses two tildes. ~~Scratch this.~~
 
 
-![text if the image fails to load](300.jpg "Text displayed on hover")
+![text if the image fails to load](main/300.jpg "Text displayed on hover")
 
 [logo]: 300.jpg "Hover me"
 ![error text][logo]
